@@ -24,6 +24,18 @@
             android:name=".RelativeActivity"
             android:label="@string/title_activity_relative" >
         </activity>
+        <activity
+            android:name=".GridActivity"
+            android:label="@string/title_activity_grid" >
+        </activity>
+        <activity
+            android:name=".ScrollviewActivity"
+            android:label="@string/title_activity_scrollview" >
+        </activity>
+        <activity
+            android:name=".FrameActivity"
+            android:label="@string/title_activity_frame" >
+        </activity>
     </application>
 
 </manifest>
